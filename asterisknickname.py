@@ -1,6 +1,7 @@
 print()
 print("="* 20, "ASSIGNMENT # 1", "=" *20)
-print("-" * 13, "coded by Nathaniel Finuliar", "-" *)
-print("=" * 21, "BSCOE 2-2", "=" * 22)
-
+print("-" * 13, "coded by Nathaniel Finuliar", "-" *14)
+print("=" * 22, "BSCOE 2-2", "=" * 23) 
+print()
+print()
 
